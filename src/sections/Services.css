@@ -1,0 +1,16 @@
+.services-container {
+    background-color: chartreuse;
+    
+    
+}
+
+.services {
+    border-radius: 30px;
+    height: 300px; 
+    width: 200px;
+    /* background-color: white; */
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}

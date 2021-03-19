@@ -1,0 +1,24 @@
+.middle-container {
+  background-color: aquamarine;
+  height: 750px;
+}
+
+
+hr {
+width: 70%;
+margin-right: auto;
+margin-left: auto;
+background-color: black;
+height: 1px;
+opacity: 0.5;
+box-shadow: black;
+margin-top: 1%;
+margin-bottom: 1%;
+  
+}
+
+.services-page {
+  display: flex;
+  flex-direction: column;
+  
+}
